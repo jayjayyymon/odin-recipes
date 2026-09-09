@@ -6,3 +6,5 @@ This project will demonstrate:
 - HTML skills
 - Proper git usage
 - Proper git commit messages
+
+JayJayJay
